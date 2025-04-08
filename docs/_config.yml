@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: MRMS-CRIS Records Mapping System
+description: Technical Documentation for TxDOT
+baseurl: "/txdot-documentation"
+url: "https://adam-kosicki.github.io"
